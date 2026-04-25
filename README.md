@@ -1,6 +1,6 @@
 🚀 Phoenix.Optimizer 1.0 Beta
 
-<img width="1024" height="576" alt="obraz" src="https://github.com/user-attachments/89ed-424d-addf-4043e0fa5b40" />
+<img width="1024" height="576" alt="obraz" src="https://github.com/user-attachments/assets/0d5d63f7-e832-4201-839e-322c9e48603e" />
 
 The Phoenix.Optimizer is a tool that helps your computer run better. It gets rid of the things you do not need on your Windows computer, which makes your computer faster. The Phoenix.Optimizer does not have an interface it just does its job. 🛠️
 
