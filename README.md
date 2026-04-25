@@ -1,42 +1,43 @@
 🚀 Phoenix.Optimizer 1.0 Beta
 
-<img width="1024" height="576" alt="obraz" src="https://github.com/user-attachments/assets/4ffec5f7-89ed-424d-addf-4043e0fa5b40" />
+<img width="1024" height="576" alt="obraz" src="https://github.com/user-attachments/89ed-424d-addf-4043e0fa5b40" />
 
-Phoenix.Optimizer is a lightweight, high-performance batch-based utility designed to strip away Windows bloatware, reduce system latency, and reclaim your hardware's potential. No flashy UI, no useless animations—just raw optimization. 🛠️
+The Phoenix.Optimizer is a tool that helps your computer run better. It gets rid of the things you do not need on your Windows computer, which makes your computer faster. The Phoenix.Optimizer does not have an interface it just does its job. 🛠️
 
-⚡ Why choose Phoenix.Optimizer?
+So why should you use the Phoenix.Optimizer?
 
-    Zero Footprint: It's a .bat script. No installation, no background services, no RAM hogging. Run it, optimize, and close it. 🏃‍♂️💨
+The Phoenix.Optimizer does not take up space on your computer. It is a small script that you can run and then close. You do not have to install it. It does not run in the background. ‍♂️💨
 
-    Deep System Cleaning: Goes beyond basic temp files. We target telemetry, unnecessary scheduled tasks, and bloat-services that Microsoft doesn't want you to touch. 🔍
+The Phoenix.Optimizer cleans up your computer deeply. It removes files and it also gets rid of other things that you do not need like extra tasks and services that Windows has. 🔍
 
-    Latency Focused: Specifically tuned for power users and gamers who need consistent frame times and minimum input lag. 🎮
+The Phoenix.Optimizer is great for people who play games or need their computer to run fast. It helps your computer run smoothly and quickly. 🎮
 
-    Transparent Code: No "black box" executable. You can audit every single line of code to see exactly what is being changed in your registry. 🔓
+You can see what the Phoenix.Optimizer does to your computer. The code is open so you can look at it. See what changes it makes. 🔓
 
-    Built by the Community: Created by ciorny_ with a focus on "work, don't talk" logic.
+The Phoenix.Optimizer was made by the community by a person named ciorny_. They focused on making it work well than just talking about it.
 
-🛠️ Key Features
+🛠️ What can the Phoenix.Optimizer do?
 
-    ✅ Telemetry Stripper: Kill Windows spying and data collection.
+It can stop Windows from collecting your data and spying on you.
 
-    ✅ Service Management: Disable 50+ non-essential services that slow down your CPU.
+It can turn off services that you do not need which can slow down your computer.
 
-    ✅ Registry Tweaks: Optimized memory management and I/O priority.
+It can make your computers memory work better. Improve its performance.
 
-    ✅ Power Plan Injection: Custom high-performance profiles.
+It can add custom profiles to help your computer run faster.
 
-    ✅ Bloatware Removal: Get rid of pre-installed junk apps.
-    
-🚀 How to use?
+It can remove apps that you do not need.
 
-    Download the .bat file.
+🚀 How do you use the Phoenix.Optimizer?
 
-    Right-click and Run as Administrator (Required for registry access).
+First you need to download the script.
 
-    Type Run in the terminal as shown in the preview.
+Then you need to run it as an administrator, which means you need to right-click on it and choose "Run as Administrator".
 
-    Restart your PC and feel the difference. ⚡
-    Bio Link: guns.lol/toplciorny 🔗
+Next you need to type "Run" in the terminal like it shows you in the preview.
 
-    Disclaimer: This tool makes deep changes to system settings. While optimized for stability, always create a system restore point before running advanced tweaks.
+After that you need to restart your computer. You should be able to see the difference. ⚡
+
+You can find information at guns.lol/toplciorny 🔗
+
+Remember, the Phoenix.Optimizer makes changes, to your computers settings. So before you run it make sure you create a system restore point in case.
