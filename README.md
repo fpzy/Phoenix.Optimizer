@@ -1,4 +1,4 @@
-🚀 Phoenix.Optimizer 1.0 Beta
+🚀 Phoenix.Optimizer V 1.1 Beta
 
 <img width="1024" height="576" alt="obraz" src="https://github.com/user-attachments/assets/0d5d63f7-e832-4201-839e-322c9e48603e" />
 
